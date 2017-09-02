@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Thông tin của tui
-subtitle: Lịch sử đấu
+subtitle: Tiêu điểm AD
 ---
 
 Best tristana
-Xưng 2 Jinx thì ko ai xưng 1
+Xưng 2 Jinx thì ko ai xưng 1.
+Jhin feed mù mắt
 
 
 ### Lịch sử đấu
